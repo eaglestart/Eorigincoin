@@ -1,0 +1,9 @@
+Building Eorigincoin
+
+See doc/readme-qt.rst for instructions on building Eorigincoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Eorigincoin.
+
+See doc/build-*.txt for instructions on building Eorigincoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Eorigincoin.
